@@ -26,7 +26,7 @@ Drag the script to player and coin.
 Run the scene and display the output.
 ## PROGRAM:
 ## Player.cs
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -63,9 +63,9 @@ public class Player : MonoBehaviour
 
     }
 }
-
+```
 ## Score.cs
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -88,7 +88,7 @@ public class Score : MonoBehaviour
         
     }
 }
-
+```
 ## OUTPUT:
 <![alt text](<hurdle ss.jpg>)
 
